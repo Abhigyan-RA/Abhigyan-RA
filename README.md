@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhigyan-RA
 - 👀 I’m interested in creating new things using language of the computer
-- 🌱 I’m currently learning C++/DSA
+- 🌱 I’m currently learning C++/DSA and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
