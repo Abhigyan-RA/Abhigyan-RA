@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhigyan-RA
 - 👀 I’m interested in creating new things using language of the computer
-- 🌱 I’m currently learning DSA and javascript and DataScience
-- 💞️ I’m looking to collaborate on Web devlopment and DataScience projects
+- 🌱 I’m currently learning DSA and DataScience
+- 💞️ I’m looking to collaborate on Machine Learning and DataScience projects
 - 📫 to reach me ping me on abhigyanranjanofficial@gmail.com
 
 <!---
