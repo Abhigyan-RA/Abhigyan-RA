@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abhigyan-RA
+# 👋 Hi, I’m Abhigyan Ranjan
 
 I am a Data Science enthusiast currently pursuing a B.Tech in **Artificial Intelligence & Data Science**. I am passionate about leveraging technology to create innovative solutions in **Machine Learning**, **Data Science**, and **Web Development**. I’m eager to collaborate and contribute to impactful projects.
 
