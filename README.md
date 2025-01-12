@@ -17,13 +17,14 @@ I am a Data Science enthusiast currently pursuing a B.Tech in **Artificial Intel
 
 ### 🏆 GitHub Stats:
 
-![Abhigyan's GitHub 2024 Commits](https://github-readme-stats.vercel.app/api?username=Abhigyan-RA&show_icons=true&theme=radical&hide=prs,issues,contribs&custom_title=Total%20Commits%20in%202024)
+![Abhigyan's All-Time GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhigyan-RA&show_icons=true&theme=radical&hide=prs,issues,contribs&custom_title=All-Time%20GitHub%20Stats&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhigyan-RA&layout=compact&theme=radical)  
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Abhigyan-RA&theme=radical)
 
 ---
+
 
 ### 🛠️ Skills (Languages and Tools):
 
