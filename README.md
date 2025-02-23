@@ -12,7 +12,7 @@ I am a Data Science enthusiast currently pursuing a B.Tech in **Artificial Intel
 ### 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhigyan-ranjan/)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Abhigyan-RA/)
 ---
 
 ### 🏆 GitHub Stats:
